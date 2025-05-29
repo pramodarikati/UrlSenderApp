@@ -31,7 +31,7 @@ class UrlSender(
                     sendMessage(url)
                     index++
                 }
-                delay(30_000) // 30 seconds
+                delay(30_000)
             }
         }
     }
